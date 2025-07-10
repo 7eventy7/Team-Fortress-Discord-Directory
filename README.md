@@ -17,7 +17,7 @@ The largest discord server in the directory, focused on discussion, events, and 
 --
 
 ### **TF2+:** https://discord.gg/acFU7cRChq  
-A chill community for trading, gameplay help, and hanging out. Also home to players of Minecraft, Valorant, Terraria, and more.
+A relatively small, chill community for trading, gameplay help, discussing the game, and hanging out.
 
 ---
 
@@ -25,12 +25,12 @@ A chill community for trading, gameplay help, and hanging out. Also home to play
 > *Content creators, video discussions, and fan communities*
 
 ### **Shounic:** https://discord.gg/8TYgJhwA7S  
-Shounic is Youtuber who specializes in thorough, educational videos exploring hidden mechanics, glitches, and code insights.
+Shounic is Youtuber who specializes on educational videos exploring hidden mechanics, glitches, and code insights.
 
 --
 
 ### **Hwho?:** https://discord.gg/9d2ACHw7sT
-Htwo is a Youtuber who focuses in movement tech, hidden game mechanics and documentary style videos exploring various gaming topics.
+Htwo is a Youtuber who focuses on hidden game mechanics and documentaries exploring various gaming topics.
 
 ---
 
@@ -38,12 +38,12 @@ Htwo is a Youtuber who focuses in movement tech, hidden game mechanics and docum
 > *Item trading, market discussions, and economy talk*
 
 ### **TF2 Trading Server:** https://discord.gg/wDchmDT8RS
-A general trading server with dedicated channels for different types of trades, making it easy to find buyers and sellers for any TF2 items.
+A general trading server with dedicated channels for different trade types, making it easy to find what you are looking for.
 
 --
 
 ### **Unusual Club:** https://discord.gg/QUErGTCw8m  
-A trading focused server centered around rare cosmetics, with a built in point system, secure marketplace, and active community.
+A trading dedicarted to rare cosmetics, with a built in point system, secure marketplace, and active community.
 
 ---
 
@@ -51,12 +51,12 @@ A trading focused server centered around rare cosmetics, with a built in point s
 > *Configs, huds, and custom changes*
 
 ### **mastercomfig:** https://discord.gg/comfig  
-Hub for a high performance config framework optimized for smoother gameplay, framerate boosts, network tuning, and customization.
+Hub for a high performance config framework optimized for smoother gameplay, and customization.
 
 --
 
 ### **criticalflaw: the server:** https://discord.gg/hTdtK9vBhE 
-Community dedicated to discussing and providing help with flawhud, rayshud and the TF2 HUD Editor made by criticalflaw.
+Community dedicated to discussing and providing help with flawhud, rayshud and the TF2 HUD Editor.
 
 ---
 
@@ -97,12 +97,12 @@ An Australian animation studio creating feature-length TF2 films in Source Filmm
 > *Leagues, scrims, and competitive play*
 
 ### **RGL.gg Official Discord:** https://discord.gg/rglgg
-The premier North American competitive league hosting 6v6, Highlander, and Prolander seasons with skill-based divisions and substantial prize pools.
+The premier North American competitive league hosting 6v6, Highlander, and Prolander seasons.
 
 --
 
 ### **TF2Pugs.com:** https://discord.gg/GNAp64CsZY
-A pickup game community for trying competitive formats in a casual, low-stakes environment with balanced teams and newcomer-friendly moderation.
+A pickup game community for trying competitive formats in a casual, low-stakes environment.
 
 
 ---
