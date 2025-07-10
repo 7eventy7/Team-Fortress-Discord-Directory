@@ -58,6 +58,11 @@ Hub for a high performance config framework optimized for smoother gameplay, and
 ### **criticalflaw: the server:** https://discord.gg/hTdtK9vBhE 
 Community dedicated to discussing and providing help with flawhud, rayshud and the TF2 HUD Editor.
 
+--
+
+### **werm co:** https://discord.gg/hg5WyewRRG
+A place to discuss, get quick support and preview development of Queki's Casual Preloader mod.
+
 ---
 
 ## Maker Communities
