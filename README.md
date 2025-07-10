@@ -1,7 +1,6 @@
 # Team Fortress Discord Directory
 A curated collection of Team Fortress 2 Discord server invite links organized by community type, with helpful descriptions to detail what the community is focused on.
 
-## How to Use
 Click any invite link to join that server. If a server is missing from the directory, or a link has expired, please submit an issue.
 
 ## General Communities
