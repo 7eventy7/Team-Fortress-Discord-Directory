@@ -2,11 +2,7 @@
 A curated collection of Team Fortress 2 Discord server invite links organized by community type, with helpful descriptions to detail what the community is focused on.
 
 ## How to Use
-Click any invite link to join that server. If you notice that a server is missing from the directory, or a link has expired, please submit an issue.
-
-This directory is not affiliated with Valve Corporation. All server invites are provided by their respective communities. 
-
-I do not endorse, and am not responsible for the content inside of these servers.
+Click any invite link to join that server. If a server is missing from the directory, or a link has expired, please submit an issue.
 
 ## General Communities
 > *General gameplay, finding teammates, and social hangouts*
@@ -123,3 +119,11 @@ Have a server to add? Create an issue with:
 - Invite link
 - Description
 - Category
+
+## Disclosure
+This directory is not affiliated with Valve Corporation. All server invites are provided by their respective communities. 
+
+If your server is listed in the directory and you wish for it to be removed, please submit an issue.
+
+I do not endorse, and am not responsible for the content inside of these servers.
+
