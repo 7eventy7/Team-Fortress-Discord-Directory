@@ -3,7 +3,7 @@ A curated collection of Team Fortress 2 Discord server invite links organized by
 
 Click any invite link to join that server. If a server is missing from the directory, or a link has expired, please submit an issue.
 
-## General Communities
+## ⚡ General Communities
 > *General gameplay, finding teammates, and social hangouts*
 
 ### **TF2 Community:** https://discord.gg/tf2  
@@ -16,7 +16,7 @@ A relatively small, chill community for trading, gameplay help, discussing the g
 
 ---
 
-## Creator Communities
+## 🎬 Creator Communities
 > *Content creators, video discussions, and fan communities*
 
 ### **Shounic:** https://discord.gg/8TYgJhwA7S  
@@ -29,7 +29,7 @@ Htwo is a Youtuber who focuses on hidden game mechanics and documentaries explor
 
 ---
 
-## Trading Communities
+## 💰 Trading Communities
 > *Item trading, market discussions, and economy talk*
 
 ### **TF2 Trading Server:** https://discord.gg/wDchmDT8RS
@@ -42,7 +42,7 @@ A trading dedicarted to rare cosmetics, with a built in point system, secure mar
 
 ---
 
-## Configuration Communities
+## ⚙️ Configuration Communities
 > *Configs, huds, and custom changes*
 
 ### **mastercomfig:** https://discord.gg/comfig  
@@ -60,7 +60,7 @@ A place to discuss, get quick support and preview development of Queki's Casual 
 
 ---
 
-## Maker Communities
+## 🎨 Maker Communities
 > *Mappers, modders, and TF2 development*
 
 ### **Source Engine:** https://discord.gg/SourceEngine  
@@ -93,7 +93,7 @@ An Australian animation studio creating feature-length TF2 films in Source Filmm
 
 ---
 
-## Competitive Communities
+## 🏆 Competitive Communities
 > *Leagues, scrims, and competitive play*
 
 ### **RGL.gg Official Discord:** https://discord.gg/rglgg
@@ -107,7 +107,7 @@ A pickup game community for trying competitive formats in a casual, low-stakes e
 
 ---
 
-## Regional Communities
+## 🌍 Regional Communities
 > *Location-based servers and different languages*
 
 ---
