@@ -38,7 +38,7 @@ Htwo is a Youtuber who focuses on hidden game mechanics and documentaries explor
 > *Item trading, market discussions, and economy talk*
 
 ### **TF2 Trading Server:** https://discord.gg/wDchmDT8RS
-A general trading server with dedicated channels for different trade types, making it easy to find what you are looking for.
+A trading server with dedicated channels for different trade types, making it easy to find what you are looking for.
 
 --
 
