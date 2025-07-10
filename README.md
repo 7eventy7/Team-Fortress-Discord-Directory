@@ -23,12 +23,11 @@ Click any invite link to join that server. If a server is missing from the direc
 ## [🏆 → Competitive Communities](communities/competitive.md)
 > *Leagues, scrims, and competitive play*
 
-## [🎬 → Creator Communities](communities/creators.md)
-> *Content creators, video discussions, and fan communities*
-
 ## [💰 → Trading Communities](communities/trading.md)
 > *Item trading, market discussions, and economy talk*
 
+## [🎬 → Creator Communities](communities/creators.md)
+> *Content creators, video discussions, and fan communities*
 
 ---
 
