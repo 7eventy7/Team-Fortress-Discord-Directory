@@ -1,4 +1,4 @@
-[← Back to Server Categories](../README.md)
+[← Back to Server Categories](https://github.com/7eventy7/Team-Fortress-Discord-Directory)
 
 # ⚙️ Configuration Communities
 > *Configs, huds, and custom changes*

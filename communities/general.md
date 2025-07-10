@@ -1,4 +1,4 @@
-[← Back to Server Categories](../README.md)
+[← Back to Server Categories](https://github.com/7eventy7/Team-Fortress-Discord-Directory)
 
 # ⚡ General Communities
 > *General gameplay, finding teammates, and social hangouts*

@@ -1,4 +1,4 @@
-[← Back to Server Categories](../README.md)
+[← Back to Server Categories](https://github.com/7eventy7/Team-Fortress-Discord-Directory)
 
 # 💰 Trading Communities
 > *Item trading, market discussions, and economy talk*
