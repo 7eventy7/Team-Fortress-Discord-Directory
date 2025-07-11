@@ -25,7 +25,7 @@ An artist driven community focused on creating cosmetics, maps, and other modifi
 
 --
 
-### **Source Filmmaker:** https://discordapp.gg/hzq2GQa  
+### **Source Filmmaker:** https://discord.gg/hzq2GQa  
 A community for creators using Source Filmmaker to share animations, models, resources, and advice.
 
 --
