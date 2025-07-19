@@ -10,6 +10,11 @@ A central hub for discussing and developing with the Source engine including map
 
 --
 
+### **TF2 Painter's Workshop:** https://discord.gg/kKdQNk7vb9
+A community dedicated to the creation of workshop items; receive answers to your questions or come get feedback.
+
+--
+
 ### **TF2Maps:** https://discord.gg/tf2maps  
 A long standing mapping community focused on level design, testing, and feedback for Source based games.
 
